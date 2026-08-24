@@ -129,6 +129,8 @@ This list uses a **3-dimensional orthogonal classification** to avoid confusing 
 ---
 
 ### 10. AI Design & Creative
+- **[Lovable](https://lovable.dev/)** ⚡ 🍏 `[Tier: S]` - Premier fullstack prompt-to-app generator with Supabase and GitHub sync.
+- **[Replit (Replit Agent)](https://replit.com/)** ⚡ 🍏 🍺 `[Tier: S]` - Autonomous fullstack coding environment and instant cloud deployment.
 - **[MiniMax Design](https://www.minimax.io/)** ⚡ 🍏 `[Tier: S]` - Visual design platform for marketing assets and consistent character styling.
 - **[OpenDesign](https://github.com/)** 🆓 🍏 `[Tier: S]` - Open design-to-code framework bridging Figma with React/Tailwind codebases.
 - **[v0 (by Vercel)](https://v0.dev/)** ⚡ 🍏 `[Tier: S]` - Prompt-to-UI generative interface builder.

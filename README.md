@@ -321,6 +321,13 @@
 
 > **场景定位**：从营销物料、UI/UX 原型生成、矢量图标设计到本地离线高精度绘图。
 
+- **[Lovable](https://lovable.dev/)** ⚡ 🍏 **`[全栈应用生成顶流 S 级 / 极低门槛]`**
+  - **Primary Type**: Fullstack AI App Builder | **Surface**: `Desktop (PWA) / Web`
+  - **核心能力**：目前最强的自然语言直接生成完整全栈 Web 应用工具。支持从对话直接生成 React 前端、Supabase 后端数据库、用户登录鉴权与实时逻辑，一键推送到 GitHub 仓库并部署上线。
+- **[Replit (Replit Agent)](https://replit.com/)** ⚡ 🍏 🍺 **`[云端自主开发环境 S 级 / 极低门槛]`**
+  - **Primary Type**: Autonomous Fullstack Platform / Cloud AI IDE | **Surface**: `Desktop / Web`
+  - **核心能力**：具备极强的全栈自治 Agent 模式，从需求分析、环境依赖配置、多文件编写到一键公网部署全部自动化完成，支持 Mac 桌面客户端。
+  - **安装**：`brew install --cask replit`
 - **[MiniMax Design (海螺创意 / MiniMax 视觉)](https://www.minimax.io/)** ⚡ 🍏 **`[创意与物料神器 S 级 / 小白友好]`**
   - **Primary Type**: Visual & Creative Design Platform | **Surface**: `Desktop / Web`
   - **核心能力**：依托 MiniMax 多模态视觉模型，专为营销海报、UI 概念图与商业视觉物料设计；文字渲染精准、中文理解深刻，零设计基础一键出图。

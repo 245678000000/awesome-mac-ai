@@ -345,5 +345,35 @@
     "status": "active",
     "recommendation": "S",
     "verified_at": "2026-08-24"
+  },
+  {
+    "id": "lovable",
+    "name": "Lovable",
+    "primary_type": "fullstack_ai_app_builder",
+    "surfaces": ["desktop", "web"],
+    "capabilities": ["prompt_to_fullstack_app", "supabase_integration", "github_sync", "live_preview", "ui_generation"],
+    "platforms": { "macos": true, "apple_silicon": true, "intel": true },
+    "open_source": false,
+    "local_model": false,
+    "byok": false,
+    "computer_use": false,
+    "status": "active",
+    "recommendation": "S",
+    "verified_at": "2026-08-24"
+  },
+  {
+    "id": "replit-agent",
+    "name": "Replit Agent",
+    "primary_type": "autonomous_fullstack_platform",
+    "surfaces": ["desktop", "web"],
+    "capabilities": ["autonomous_coding", "fullstack_hosting", "instant_deployment", "agentic_environment", "multi_file_editing"],
+    "platforms": { "macos": true, "apple_silicon": true, "intel": true },
+    "open_source": false,
+    "local_model": false,
+    "byok": false,
+    "computer_use": false,
+    "status": "active",
+    "recommendation": "S",
+    "verified_at": "2026-08-24"
   }
 ]
