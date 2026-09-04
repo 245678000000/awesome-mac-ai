@@ -375,5 +375,20 @@
     "status": "active",
     "recommendation": "S",
     "verified_at": "2026-08-24"
+  },
+  {
+    "id": "orkas",
+    "name": "Orkas",
+    "primary_type": "desktop_ai_workforce",
+    "surfaces": ["desktop"],
+    "capabilities": ["commander_orchestration", "specialist_agents", "local_files", "tool_use"],
+    "platforms": { "macos": true, "apple_silicon": true, "intel": true },
+    "open_source": true,
+    "local_model": true,
+    "byok": true,
+    "computer_use": true,
+    "status": "active",
+    "recommendation": "A",
+    "verified_at": "2026-09-04"
   }
 ]
