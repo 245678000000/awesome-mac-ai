@@ -383,6 +383,9 @@ python3 scripts/validate.py
 - **[Kiro Crew](https://kiro.dev/)** ⚡ 🍏 **`[持久化 Agent 工作区 A/S 级]`**
   - **Primary Type**: Persistent Agent Workspace | **Surface**: `Desktop / CLI / Web`
   - **核心能力**：团队化持久运行的个人与业务智能体集群管理，独立于 IDE 存在。
+- **[Orkas](https://orkas.ai/?source=gh_macai)** 🍏 **`[本地优先 AI 团队 A 级]`**
+  - **Primary Type**: Desktop AI Workforce | **Surface**: `Desktop`
+  - **核心能力**：开源、本地优先；Commander 通过一个对话协调专业 Agent 完成复杂工作。
 - **[CodexBar](https://github.com/)** 🆓 🍏 **`[菜单栏配额监控 A 级]`**
   - **Primary Type**: Agent Usage Monitor | **Surface**: `Menu Bar`
   - **核心能力**：常驻 macOS 顶部菜单栏，随时查看 Codex、Claude、Cursor 等各大模型 API 配额与费用消耗。

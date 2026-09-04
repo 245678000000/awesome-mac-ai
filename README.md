@@ -289,6 +289,7 @@ Refer to the curated catalog below to install and configure software for your sp
 
 - **[Supacode](https://github.com/)** `[Tier: A]` - Desktop controller for concurrent Claude Code and Codex processes.
 - **[Kiro Crew](https://kiro.dev/)** `[Tier: A]` - Persistent personal and team agent workspace.
+- **[Orkas](https://orkas.ai/?source=gh_macai)** `[Tier: A]` - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - **[CodexBar](https://github.com/)** `[Tier: A]` - Menu bar monitor for LLM usage and API quotas.
 
 ---
