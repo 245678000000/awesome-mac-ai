@@ -406,6 +406,7 @@ python3 scripts/validate.py
 - **Playwright**：现代 Web 自动化底座，供 Agent 构建自动化测试与动态页面数据提取。
 - **Chrome DevTools MCP**：将 Chrome / Chromium 的远程调试端口桥接为标准 MCP 协议。
 - **Juno / Agent! / Local Operator**：基于 Accessibility API、AppleScript 与视觉多模态的本地桌面 GUI 操作代理。
+- **[agent-qa](https://vostride.com)**：面向 Web、Android 和 iOS 的 QA 智能体，具备 memidex 持久记忆与基于证据门控的自我改进；可通过 CLI、本地仪表盘或 MCP 使用。需要 Node.js 24+，本地 iOS 测试需要配备 Xcode 和 Appium 的 Mac。当前为早期 v0.2，采用含商业限制的 FSL-1.1-ALv2 许可证。
 
 ---
 

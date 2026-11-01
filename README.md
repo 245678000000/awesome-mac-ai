@@ -310,6 +310,7 @@ Refer to the curated catalog below to install and configure software for your sp
 - **Playwright**: Universal web automation framework.
 - **Chrome DevTools MCP**: Exposing Chromium remote debugging as standard MCP tools.
 - **Juno / Agent! / Local Operator**: Accessibility and vision-driven macOS GUI automation agents.
+- **[agent-qa](https://vostride.com)**: QA harness for web, Android and iOS with persistent memidex memory and evidence-gated self-improvement. Runs through a CLI, local dashboard or MCP; requires Node.js 24+, and local iOS testing requires a Mac with Xcode and Appium. Early v0.2; FSL-1.1-ALv2 with commercial restrictions.
 
 ---
 

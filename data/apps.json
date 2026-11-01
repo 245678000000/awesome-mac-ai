@@ -375,5 +375,45 @@
     "status": "active",
     "recommendation": "S",
     "verified_at": "2026-08-24"
+  },
+  {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "repository": "https://github.com/vostride/agent-qa",
+    "documentation": "https://vostride.com/docs/agent-qa",
+    "primary_type": "qa_agent_harness",
+    "surfaces": [
+      "cli",
+      "web"
+    ],
+    "capabilities": [
+      "gui_testing",
+      "mcp",
+      "skills",
+      "persistent_memory",
+      "self_improvement",
+      "run_evidence"
+    ],
+    "platforms": {
+      "macos": true
+    },
+    "open_source": false,
+    "source_available": true,
+    "license": "FSL-1.1-ALv2",
+    "local_model": true,
+    "byok": true,
+    "computer_use": true,
+    "status": "active",
+    "recommendation": "B",
+    "verified_at": "2026-11-01",
+    "verification_method": "Public documentation and repository review; not runtime tested. Provisional B placement for early v0.2; no Apple Silicon, Intel or Metal-specific performance claim.",
+    "requirements": "Node.js 24+ and a configured model; local iOS testing needs macOS, Xcode and Appium. Model and optional service costs vary.",
+    "sources": [
+      "https://vostride.com/docs/agent-qa/quickstart",
+      "https://vostride.com/docs/agent-qa/guides/mobile-testing",
+      "https://vostride.com/docs/agent-qa/self-improvement",
+      "https://github.com/vostride/agent-qa/blob/main/LICENSE.md"
+    ]
   }
 ]
