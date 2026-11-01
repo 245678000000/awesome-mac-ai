@@ -418,7 +418,11 @@ python3 scripts/validate.py
   - **安装**：`brew install promptfoo`
 - **[AgentBench](https://github.com/THUDM/AgentBench)** 🆓 🍏 **`[多维 Agent 评测 A 级]`**
   - **核心能力**：清华大学等开源的多维度 LLM 智能体综合能力评测基准。
-- **[agent-qa](https://vostride.com)**：面向 Web、Android 和 iOS 的 QA 智能体，具备 memidex 持久记忆与基于证据门控的自我改进；可通过 CLI、本地仪表盘或 MCP 使用。需要 Node.js 24+，本地 iOS 测试需要配备 Xcode 和 Appium 的 Mac。当前为早期 v0.2，采用含商业限制的 FSL-1.1-ALv2 许可证。
+- **[agent-qa](https://vostride.com)** 🍏 **`[QA 智能体 B 级]`**
+  - **核心能力**：面向 Web、Android 和 iOS 的 QA 智能体，具备 memidex 持久记忆与基于证据门控的自我改进。
+  - **使用方式**：可通过 CLI、本地仪表盘或 MCP 使用。
+  - **运行要求**：需要 Node.js 24+；本地 iOS 测试需要配备 Xcode 和 Appium 的 Mac。
+  - **状态与许可证**：当前为早期 v0.2，采用含商业限制的 FSL-1.1-ALv2 许可证。
 
 ---
 
